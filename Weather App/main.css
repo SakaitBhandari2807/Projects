@@ -1,0 +1,31 @@
+body{
+  font-family:cursive;
+  max-width: 100%;
+}
+#weather-display{
+  background-color:black;
+  color:white;
+  margin-top:100px;
+  margin-left:460px;
+  margin-right:460px;
+  text-align: center;
+  padding-top:105px;
+  padding-bottom:80px;
+  margin-bottom:100px;
+  border-radius: 7px;
+}
+h2{
+  text-align:center;
+  font-family:monospace;
+  background-color: green;
+  padding-top:30px;
+  padding-bottom:30px;
+  color:white;
+  margin-top:0px;
+}
+#footer{
+  padding-top:40px;
+}
+a{
+  color:white;
+}
