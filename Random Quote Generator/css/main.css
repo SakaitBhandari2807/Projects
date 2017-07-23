@@ -1,0 +1,16 @@
+h2{
+  text-align: center;
+  background-clip: border-box;
+}
+#Quote{
+  margin:100px;
+  margin-left: 300px;
+  margin-right:300px;
+  text-align: center;
+  font-family: cursive;
+  font-weight:500;
+  
+}
+.btn{
+  margin-top:10px;
+}
